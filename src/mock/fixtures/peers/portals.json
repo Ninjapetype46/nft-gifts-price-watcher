@@ -1,0 +1,7 @@
+{"v":1,"market":"portals","ts":1793200000000,"fees":{"buy_pct":0,"sell_pct":5,"fixed_ton":0.1},"items":[
+ {"collection":"Mock Plush Pepes","model":null,"backdrop":null,"floor_ton":4.6,"second_ton":4.8,"listed":24,"ts":1793200000000},
+ {"collection":"Mock Plush Pepes","model":"Bronze","backdrop":null,"floor_ton":4.6,"second_ton":4.8,"listed":7,"ts":1793200000000},
+ {"collection":"Mock Plush Pepes","model":"Silver","backdrop":null,"floor_ton":14.0,"second_ton":14.5,"listed":5,"ts":1793200000000},
+ {"collection":"Mock Plush Pepes","model":"Gold","backdrop":null,"floor_ton":16.0,"second_ton":16.4,"listed":3,"ts":1793200000000},
+ {"collection":"Plush Pepes","model":"Gold","backdrop":null,"floor_ton":980,"second_ton":1000,"listed":12,"ts":1793200000000}
+]}

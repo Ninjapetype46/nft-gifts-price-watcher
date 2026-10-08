@@ -1,0 +1,4 @@
+{"v":1,"market":"telegram","ts":1793199990000,"fees":{"buy_pct":0,"sell_pct":0,"fixed_ton":0},"items":[
+ {"collection":"Mock Plush Pepes","model":"Bronze","backdrop":null,"floor_ton":8.5,"second_ton":8.9,"listed":11,"ts":1793199990000},
+ {"collection":"Mock Plush Pepes","model":"Gold","backdrop":null,"floor_ton":47.0,"second_ton":49.0,"listed":6,"ts":1793199990000}
+]}

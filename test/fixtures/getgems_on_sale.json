@@ -1,0 +1,64 @@
+{
+  "_comment": "Shape from https://api.getgems.io/public-api/docs.json (NftItemsFullResponse) and the official read-api example; values are illustrative, not live data.",
+  "success": true,
+  "response": {
+    "cursor": "6.9%2C6813a6976428bb255010d739",
+    "items": [
+      {
+        "address": "EQABD4C4pfjJkj79sfUABT7JHPR1e80IE5ODPXSrCfQ4yiOe",
+        "kind": "CollectionItem",
+        "collectionAddress": "EQCefrjhCD2_7HRIr2lmwt9ZaqeG_tdseBvADC66833kBS3y",
+        "ownerAddress": "EQBXhsiBxXjnfnuOU8ztrQzw2Rl79sQAMPK30AYi8NCZ1e9l",
+        "actualOwnerAddress": "UQDXP0me9K8pz9dNmqmnmVEU8MQX6QzC10rM82HF1XX4ZQHe",
+        "name": "Homemade Cake #20549",
+        "attributes": [
+          { "traitType": "Model", "value": "Mistletoe" },
+          { "traitType": "Backdrop", "value": "French Blue" },
+          { "traitType": "Symbol", "value": "Celtic Cross" }
+        ],
+        "image": null,
+        "imageSizes": { "96": "", "352": "" },
+        "sale": {
+          "type": "FixPriceSale",
+          "fullPrice": "50000000000",
+          "currency": "TON",
+          "marketplaceFee": "2500000000",
+          "marketplaceFeeAddress": "EQCjk1hh952vWaE9bRguFkAhDAL5jj3xj9p0uPWrFBq_GEMS",
+          "royaltyAddress": "EQBo86B200UaGP1B4FxxtMAgVF1GsnVwZOZYJd7QxJvwLHL0",
+          "royaltyAmount": "0",
+          "version": "1b5269ee9f53f000,s:1tla7aeps:TON,m:4ac71e2028745291",
+          "contractType": "sale-contract",
+          "contractAddress": "EQBXhsiBxXjnfnuOU8ztrQzw2Rl79sQAMPK30AYi8NCZ1e9l"
+        }
+      },
+      {
+        "address": "EQAtjj8TSTMlGcSV4noceB3D7_NrqQsRfWd6Wxo33NzfV7Yi",
+        "kind": "CollectionItem",
+        "collectionAddress": "EQCefrjhCD2_7HRIr2lmwt9ZaqeG_tdseBvADC66833kBS3y",
+        "ownerAddress": "EQDO-o9ZgXFTS23bE_nG88PfB39-9X6IAtCrh6QB88V9j7YX",
+        "name": "Auctioned item",
+        "attributes": [],
+        "image": null,
+        "imageSizes": { "96": "", "352": "" },
+        "sale": {
+          "type": "Auction",
+          "currency": "TON",
+          "minBid": "2200000000",
+          "maxBid": null,
+          "finishAt": "2025-08-18T01:01:05.000Z",
+          "lastBidAmount": "2000000000",
+          "lastBidAddress": null,
+          "lastBidAt": null,
+          "marketplaceFee": "0",
+          "marketplaceFeePercent": 0,
+          "marketplaceFeeAddress": "EQC-56PXuMBvlVIDLDiApWp0twKtiyJPQr-xrBwzvXGQgPYM",
+          "royaltyAddress": "EQBAjaOyi2wGWlk-EDkSabqqnF-MrrwMadnwqrurKpkla9nE",
+          "royaltyPercent": { "base": 100, "factor": 0 },
+          "version": "1b0132132afa3000,s:0:TON,m:c2de3029a60a7dd1",
+          "contractType": "sale-contract",
+          "contractAddress": null
+        }
+      }
+    ]
+  }
+}

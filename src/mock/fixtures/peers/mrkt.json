@@ -1,0 +1,5 @@
+{"v":1,"market":"mrkt","ts":1793199980000,"fees":{"buy_pct":0,"sell_pct":8,"fixed_ton":0.1},"items":[
+ {"collection":"Mock Plush Pepe","model":"Bronze","backdrop":null,"floor_ton":4.9,"second_ton":5.0,"listed":4,"ts":1793199980000},
+ {"collection":"Mock Plush Pepe","model":"Gold","backdrop":null,"floor_ton":17.2,"second_ton":18.0,"listed":2,"ts":1793199980000},
+ {"collection":"plushpepe","model":"Gold","backdrop":null,"floor_ton":990,"second_ton":1010,"listed":9,"ts":1793199980000}
+]}

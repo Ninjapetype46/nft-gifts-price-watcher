@@ -1,0 +1,40 @@
+{
+ "_captured": "GET https://tonapi.io/v2/nfts/0:1ca16fc1d2fc5b88bc5d646a33e74d01a05aa398d8b98c0eb0da7c70baa0fca8/history?limit=50, anonymous tier, 2026-10-28: only the event of the Getgems purchase is kept. This endpoint reports it as NftItemTransfer without a price, so the bot reads /v2/accounts/{nft}/events instead.",
+ "events": [
+  {
+   "event_id": "64d02c2eb02de95630b35a1f58127b6fdb897515c8e10129b5e784ca76202ea1",
+   "account": {
+    "address": "0:1ca16fc1d2fc5b88bc5d646a33e74d01a05aa398d8b98c0eb0da7c70baa0fca8",
+    "is_scam": false,
+    "is_wallet": false
+   },
+   "timestamp": 1792048873,
+   "actions": [
+    {
+     "type": "NftItemTransfer",
+     "status": "ok",
+     "NftItemTransfer": {
+      "sender": {
+       "address": "0:4e635d0d63342f94b6042227053f1ad55c854fb632213a399a0ff109572b5046",
+       "is_scam": false,
+       "is_wallet": false
+      },
+      "recipient": {
+       "address": "0:6199ea9441e051fdfb001d66cf9a558c9bb6c655631c1b45a78aa232c558b169",
+       "name": "nxdb.ton",
+       "is_scam": false,
+       "is_wallet": true
+      },
+      "nft": "0:1ca16fc1d2fc5b88bc5d646a33e74d01a05aa398d8b98c0eb0da7c70baa0fca8"
+     }
+    }
+   ],
+   "is_scam": false,
+   "lt": 110079348000012,
+   "in_progress": false,
+   "extra": 0,
+   "progress": 0
+  }
+ ],
+ "next_from": 78287387000001
+}

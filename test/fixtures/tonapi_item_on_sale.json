@@ -1,0 +1,63 @@
+{
+  "address": "0:010f80b8a5f8c9923efdb1f500053ec91cf4757bcd081393833d74ab09f438ca",
+  "index": 3119951236545584591,
+  "owner": {
+    "address": "0:5786c881c578e77e7b8e53ccedad0cf0d9197bf6c40030f2b7d00622f0d099d5",
+    "is_scam": false,
+    "is_wallet": false
+  },
+  "collection": {
+    "address": "0:9e7eb8e1083dbfec7448af6966c2df596aa786fed76c781bc00c2ebaf37de405",
+    "name": "Homemade Cakes",
+    "description": "Homemade Cakes is an exclusive NFT collection by Telegram. Owners can showcase these unique NFTs in the Gifts section of their Telegram account and ‘wear’ them — displaying them next to their names and applying the gift’s unique style to personalize their profile page."
+  },
+  "verified": true,
+  "metadata": {
+    "name": "Homemade Cake #20549",
+    "image": "https://nft.fragment.com/gift/homemadecake-20549.webp",
+    "lottie": "https://nft.fragment.com/gift/homemadecake-20549.lottie.json",
+    "attributes": [
+      {
+        "trait_type": "Model",
+        "value": "Mistletoe"
+      },
+      {
+        "trait_type": "Backdrop",
+        "value": "French Blue"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Celtic Cross"
+      }
+    ],
+    "description": "An exclusive Homemade Cake with the appearance Mistletoe on a French Blue background with Celtic Cross icons."
+  },
+  "sale": {
+    "address": "0:5786c881c578e77e7b8e53ccedad0cf0d9197bf6c40030f2b7d00622f0d099d5",
+    "market": {
+      "address": "0:584ee61b2dff0837116d0fcb5078d93964bcbe9c05fd6a141b1bfca5d6a43e18",
+      "name": "Getgems Sales",
+      "is_scam": false,
+      "is_wallet": false
+    },
+    "owner": {
+      "address": "0:d73f499ef4af29cfd74d9aa9a7995114f0c417e90cc2d74accf361c5d575f865",
+      "name": "malina.ton",
+      "is_scam": false,
+      "is_wallet": true
+    },
+    "price": {
+      "currency_type": "native",
+      "value": "50000000000",
+      "decimals": 9,
+      "token_name": "Gram",
+      "verification": "whitelist"
+    }
+  },
+  "approved_by": [
+    "getgems"
+  ],
+  "trust": "whitelist",
+  "code_hash": "MNzX1bb89ZaMJ5Hh4xrXMvJnLymG4daXDrA8yiLSMlE=",
+  "data_hash": "B94pzs941jfhRoGJv2xcDQIF6X4y9FSMe0btGa4bkxE="
+}

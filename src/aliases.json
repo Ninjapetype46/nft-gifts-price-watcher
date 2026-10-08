@@ -1,0 +1,14 @@
+{
+  "_comment": "Normalized (lower-case alphanumeric) collection names -> canonical name. Getgems names differ from mini-app names (singular/plural, punctuation). Each sibling bot keeps its own copy.",
+  "plushpepe": "plushpepes",
+  "mockplushpepe": "mockplushpepes",
+  "homemadecake": "homemadecakes",
+  "lollipop": "lollipops",
+  "lolpop": "lollipops",
+  "durovscap": "durovscaps",
+  "signetring": "signetrings",
+  "preciouspeach": "preciouspeaches",
+  "lootbag": "lootbags",
+  "swisswatch": "swisswatches",
+  "eternalrose": "eternalroses"
+}
