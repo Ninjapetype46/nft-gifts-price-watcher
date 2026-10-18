@@ -1,0 +1,4 @@
+# The GitHub "About" box.
+repository:
+  description: "Telegram bot that watches NFT gift prices and alerts you on drops."
+  topics: telegram, nft, gifts, price-alerts, ton, bot, python, monitoring

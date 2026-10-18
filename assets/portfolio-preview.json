@@ -1,0 +1,38 @@
+{
+  "key": "getgems-checker-portfolio",
+  "accent": ["#0098EA", "#38E1F4"],
+  "bot": "Getgems Checker",
+  "initials": "GC",
+  "time": "21:30",
+  "subtitle": "/mygifts card from the offline mock run",
+  "lines": [
+    [{ "t": "Your 6 collectible gifts: ~87 TON (≈ $108.75) · range 85-104", "s": "title" }],
+    "",
+    [
+      { "t": "1. Mock Plush Pepe #77 (Gold)", "s": "body" },
+      { "t": "41.00 TON", "s": "mono", "x": 268 },
+      { "t": " · conf B · normal", "s": "muted" }
+    ],
+    [
+      { "t": "2. Mock Plush Pepe #12 (Silver)", "s": "body" },
+      { "t": "15.00 TON", "s": "mono", "x": 268 },
+      { "t": " · conf B · normal", "s": "muted" }
+    ],
+    [
+      { "t": "3. Mock Plush Pepe #5 (Neon)", "s": "body" },
+      { "t": "13.38–32.25 TON", "s": "mono", "x": 268 },
+      { "t": " · conf C · illiquid", "s": "warn" }
+    ],
+    [{ "t": "…and 2 more (~16.00 TON): Mock Plush Pepe #3 (Bronze), Mock Plush Pepe #4 (Bronze)", "s": "body" }],
+    [{ "t": "Not on Getgems: Mystery Box #1 (Crate)", "s": "muted" }],
+    [{ "t": "1 burned gift skipped", "s": "muted" }],
+    "",
+    [
+      { "t": "Someone bids 44.00 net", "s": "good" },
+      { "t": " for your Mock Plush Pepe #77 (Gold). Listing at fair would net ~36.8 after fees and ~13 days.", "s": "body" }
+    ],
+    "",
+    [{ "t": "Only gifts visible on your profile are counted.", "s": "muted" }]
+  ],
+  "buttons": [["Watch these collections"], ["Alert me if any drops 20%"]]
+}
