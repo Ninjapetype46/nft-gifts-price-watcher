@@ -1,0 +1,4 @@
+{"v":1,"market":"tonnel","ts":1793196400000,"fees":{"buy_pct":0,"sell_pct":10,"fixed_ton":0.1},"items":[
+ {"collection":"Mock Plush Pepes","model":"Gold","backdrop":null,"floor_ton":12.0,"second_ton":12.5,"listed":2,"ts":1793196400000},
+ {"collection":"Mock Plush Pepes","model":"Bronze","backdrop":null,"floor_ton":3.5,"second_ton":3.9,"listed":3,"ts":1793196400000}
+]}

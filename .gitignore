@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.venv/
+
+# Secrets (keep the documented example)
+.env
+.env.*
+!.env.example
+
+# Runtime data: database, event log, floors, mock output
+data/
+*.db
+*.db-*
+*.sqlite
+
+# Telegram sessions (this bot uses none; kept so a stray session file is never committed)
+*.session
+*.session-journal
+sessions/
+
+# Logs, caches and local files
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

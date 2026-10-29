@@ -1,0 +1,180 @@
+{
+ "key": "getgems-checker",
+ "accent": [
+  "#0098EA",
+  "#38E1F4"
+ ],
+ "bot": "Getgems Checker",
+ "initials": "GC",
+ "time": "21:30",
+ "subtitle": "Alert text from the offline mock run (practice mode; emoji left out)",
+ "lines": [
+  [
+   {
+    "t": "PRACTICE",
+    "s": "warn"
+   },
+   {
+    "t": " · ",
+    "s": "muted"
+   },
+   {
+    "t": "BUY",
+    "s": "good"
+   },
+   {
+    "t": " · ",
+    "s": "muted"
+   },
+   {
+    "t": "Mock Pepe #1 — 4.00 TON",
+    "s": "title"
+   },
+   {
+    "t": " (all-in 4.10) · ",
+    "s": "muted"
+   },
+   {
+    "t": "EXIT-BACKED",
+    "s": "good"
+   }
+  ],
+  [
+   {
+    "t": "Below floor + Undervalued · Mock Plush Pepes",
+    "s": "muted"
+   }
+  ],
+  [
+   {
+    "t": "Model: ",
+    "s": "muted"
+   },
+   {
+    "t": "Bronze",
+    "s": "body"
+   },
+   {
+    "t": " · Backdrop: ",
+    "s": "muted"
+   },
+   {
+    "t": "Onyx Black",
+    "s": "body"
+   },
+   {
+    "t": " · Symbol: ",
+    "s": "muted"
+   },
+   {
+    "t": "Star",
+    "s": "body"
+   }
+  ],
+  "",
+  [
+   {
+    "t": "Fair 8.00 TON · conf A · 8 sales of Model \"Bronze\" (30d) · 7 ignored",
+    "s": "body"
+   }
+  ],
+  [
+   {
+    "t": "Resell at fair 8.00 → you keep ~7.10 after 5% fee + 5% royalty → ",
+    "s": "body"
+   },
+   {
+    "t": "+3.00 TON (+73%)",
+    "s": "good"
+   }
+  ],
+  [
+   {
+    "t": "Instant exit: ",
+    "s": "body"
+   },
+   {
+    "t": "an open bid pays 6.50 net now (+2.40)",
+    "s": "good"
+   },
+   {
+    "t": " · expires in 2d",
+    "s": "muted"
+   }
+  ],
+  [
+   {
+    "t": "Sells: fast (~2 days · 0.4 sales/day · 0 listed below fair)",
+    "s": "body"
+   }
+  ],
+  [
+   {
+    "t": "Elsewhere (net): MRKT 4.4 · Portals 4.3 · Telegram 8.5 - cheapest to buy: here; best exit: Telegram +4.4 TON",
+    "s": "body"
+   }
+  ],
+  [
+   {
+    "t": "≈ $5.13 (rate 21:30)",
+    "s": "muted"
+   }
+  ],
+  [
+   {
+    "t": "Risk: ",
+    "s": "body"
+   },
+   {
+    "t": "Safe checks passed",
+    "s": "good"
+   }
+  ],
+  "",
+  [
+   {
+    "t": "Why",
+    "s": "quote"
+   }
+  ],
+  [
+   {
+    "t": "• 20.0% below the next cheapest listing (5.00 TON)",
+    "s": "quote"
+   }
+  ],
+  [
+   {
+    "t": "• 50.0% below fair value 8.00 TON (Model \"Bronze\", 8 sales, conf A)",
+    "s": "quote"
+   }
+  ],
+  [
+   {
+    "t": "• an open bid pays 6.50 TON net right now (+2.40 TON vs all-in)",
+    "s": "quote"
+   }
+  ],
+  [
+   {
+    "t": "Open on Getgems",
+    "s": "link"
+   },
+   {
+    "t": " · alert #3",
+    "s": "muted"
+   }
+  ]
+ ],
+ "buttons": [
+  [
+   "Open on Getgems",
+   "Paper buy"
+  ],
+  [
+   "Why?",
+   "Comps",
+   "Mute 24h"
+  ]
+ ]
+}

@@ -1,0 +1,16 @@
+{
+  "key": "getgems-checker",
+  "title": "Getgems Checker",
+  "eyebrow": "TON · NFT · Telegram Gifts",
+  "tagline": "Gift deal alerts with a fair price from real sales, profit after fees and a safety light",
+  "chips": [
+    "Dry-run by default",
+    "Node.js 22.13+",
+    "grammY"
+  ],
+  "accent": [
+    "#0098EA",
+    "#38E1F4"
+  ],
+  "icon": "gem"
+}

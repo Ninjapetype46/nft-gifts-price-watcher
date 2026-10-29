@@ -1,0 +1,30 @@
+{
+  "name": "ton-nft-gifts-sniper-telegram-bot",
+  "version": "2.1.47",
+  "description": "Getgems (TON NFT) monitor: cheap Telegram gifts, undervalued NFTs, Telegram alerts and guarded autobuy",
+  "type": "module",
+  "private": true,
+  "main": "src/index.js",
+  "bin": {
+    "getgems-checker": "src/index.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node src/index.js run",
+    "once": "node src/index.js once",
+    "mock": "node src/index.js mock --cycles 3",
+    "test": "node --test --no-warnings=ExperimentalWarning test/*.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "grammy": "^1.36.0",
+    "zod": "^4.6.7"
+  },
+  "optionalDependencies": {
+    "@ton/core": "^0.63.0",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^16.0.0"
+  }
+}
