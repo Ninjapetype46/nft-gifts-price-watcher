@@ -1,6 +1,6 @@
 {
   "name": "ton-nft-gifts-sniper-telegram-bot",
-  "version": "2.1.47",
+  "version": "2.1.48",
   "description": "Getgems (TON NFT) monitor: cheap Telegram gifts, undervalued NFTs, Telegram alerts and guarded autobuy",
   "type": "module",
   "private": true,

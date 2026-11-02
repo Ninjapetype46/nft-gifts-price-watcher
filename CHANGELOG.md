@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1.48 · 2026-11-02
+
+- Floor alerts arrive even when the listing feed stalls.
+- Watch list keeps its order after a restart.
+- Faster load for collections with many pages.
+- Fixed the alert image on high-DPI screens.
+
+
 All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
